@@ -6,7 +6,7 @@ want to explore these issues from a distinct viewpoint of personal experience.
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Data Question] (#data-question)
+* [Data Question](#data-question)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
 * [Acknowledgements](#acknowledgements)
